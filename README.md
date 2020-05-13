@@ -1,6 +1,8 @@
 pacman
 ======
 
+**an attempt at 'AI' capabilities on a pacman project (state: tbd) **
+
 A Pac-Man clone written in Java with Swing.
 
 This is my old project for learning Swing and A* path finding.
