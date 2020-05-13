@@ -3,6 +3,12 @@ pacman
 
 **an attempt at 'AI' capabilities on a pacman project (state: tbd) **
 
+Current AI
+----
+Explanation of current/pre-existing AI for pacman and ghosts: tbd
+
+
+
 A Pac-Man clone written in Java with Swing.
 
 This is my old project for learning Swing and A* path finding.
